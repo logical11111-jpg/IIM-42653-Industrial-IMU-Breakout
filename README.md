@@ -1,3 +1,5 @@
+<img width="1370" height="912" alt="image" src="https://github.com/user-attachments/assets/829bcdfd-95f2-487e-ad3f-0126d676bac2" />
+
 # TDK IIM-42653 Industrial 6-Axis IMU Breakout (32g / 4000dps)
 
 [![Get it on Tindie](https://img.shields.io/badge/Tindie-Buy_Evaluation_Board-blue)](https://www.tindie.com/products/led/iim-42653-industrial-imu-breakout/)
